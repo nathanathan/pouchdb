@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.pouchdb.cordova"
+        version   = "0.0.1">
+
+    <preference name="phonegap-version" value="2.9.0" />
+
+    <name>PouchDB</name>
+</widget>
